@@ -138,6 +138,7 @@ export default function Home() {
       >
         <nav className="flex items-right justify-between p-6 md:px-12" aria-label="Global">
           <div className="flex lg:flex-1">
+            <img src="/fihan.png" alt="" className="w-6 h-9 mr-3" />
             <a href="#" className="-m-1.5 p-1.5 text-gray-700 font-bold leading-8 text-xl">
               Personal Website
             </a>
