@@ -310,6 +310,7 @@ export default function Home() {
           </Dialog.Panel>
         </Dialog>
       </header>
+
       <Element name="home">
         <div className="relative isolate bg-white py-24 sm:py-32" id="home">
           <div
@@ -554,9 +555,7 @@ export default function Home() {
                   <div className="-mt-2 p-2 lg:mt-0 lg:w-full lg:max-w-md lg:flex-shrink-0">
                     <div className="rounded-2xl bg-gray-50 py-10 text-center ring-1 ring-inset ring-gray-900/5 lg:flex lg:flex-col lg:justify-center lg:py-16">
                       <div className="mx-auto max-w-xs px-8">
-                        <p className="text-base font-semibold text-gray-600">
-                          Here is my github project
-                        </p>
+                        <p className="text-base font-semibold text-gray-600">See my project</p>
                         <div className="mt-6 flex items-baseline justify-center">
                           <div className="h-24 items-center justify-center">
                             <img src="/github.svg" alt="" className="h-16 " />
@@ -612,9 +611,7 @@ export default function Home() {
                   <div className="-mt-2 p-2 lg:mt-0 lg:w-full lg:max-w-md lg:flex-shrink-0">
                     <div className="rounded-2xl bg-gray-50 py-10 text-center ring-1 ring-inset ring-gray-900/5 lg:flex lg:flex-col lg:justify-center lg:py-16">
                       <div className="mx-auto max-w-xs px-8">
-                        <p className="text-base font-semibold text-gray-600">
-                          Here is my github project
-                        </p>
+                        <p className="text-base font-semibold text-gray-600">See my project</p>
                         <div className="mt-6 flex items-baseline justify-center">
                           <div className="h-24 items-center justify-center">
                             <img src="/github.svg" alt="" className="h-16 " />
@@ -670,9 +667,7 @@ export default function Home() {
                   <div className="-mt-2 p-2 lg:mt-0 lg:w-full lg:max-w-md lg:flex-shrink-0">
                     <div className="rounded-2xl bg-gray-50 py-10 text-center ring-1 ring-inset ring-gray-900/5 lg:flex lg:flex-col lg:justify-center lg:py-16">
                       <div className="mx-auto max-w-xs px-8">
-                        <p className="text-base font-semibold text-gray-600">
-                          Here Is Q-Learning Project
-                        </p>
+                        <p className="text-base font-semibold text-gray-600">See my project</p>
                         <div className="mt-6 flex items-baseline justify-center">
                           <div className="h-24 w-24 items-center justify-center">
                             <img src="/colab.svg" alt="" className="h-20 w-20" />
