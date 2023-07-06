@@ -21,6 +21,7 @@ import {
   XMarkIcon,
 } from "@heroicons/react/24/outline";
 import { ChevronDownIcon } from "@heroicons/react/20/solid";
+import FloatingActionButton from "./components/float";
 const navigation = [
   { name: "Product", href: "#" },
   { name: "Features", href: "#" },
@@ -815,6 +816,7 @@ export default function Home() {
           </div>
         </div>
       </div>
+      <FloatingActionButton />
     </div>
   );
 }
