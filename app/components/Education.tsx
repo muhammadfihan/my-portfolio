@@ -51,7 +51,7 @@ export const Education = () => {
               Here is my latest educational history.
             </p>
           </div>
-          <div className="mx-2 mt-8  grid max-w-2xl grid-cols-1 sm:mt-8 sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-2">
+          <div className="mx-2 mt-8 gap-y-10  grid max-w-2xl grid-cols-1 sm:mt-8 sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-2">
             {posts.map((post) => (
               <article key={post.id} className="flex max-w-xl flex-col items-start justify-between">
                 <div className="flex items-center gap-x-4 text-xs">

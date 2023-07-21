@@ -1,17 +1,11 @@
 "use client";
 
-import { useState, useEffect } from "react";
-import { Dialog } from "@headlessui/react";
-import { Link, Element } from "react-scroll";
+import { Element } from "react-scroll";
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
-import { Carousel } from "react-responsive-carousel";
-import { Swiper, SwiperSlide } from "swiper/react";
-import { Navigation, Pagination, EffectFlip } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/effect-flip";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
-import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 import FloatingActionButton from "./components/utils/float";
 import Navbar from "./components/Navbar";
 import { Homepage } from "./components/Home";
