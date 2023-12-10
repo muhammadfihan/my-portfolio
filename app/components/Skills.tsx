@@ -2,18 +2,18 @@
 import React from "react";
 
 const features = [
-  {
-    name: "React Js - Beginner",
-    description:
-      "I am a beginner who is currently learning React.js and eager to enhance my skills in front-end development.",
-    imageUrl: "/react.svg",
-  },
-  {
-    name: "Next Js - Beginner",
-    description:
-      "Learning Next.js to create a portfolio website and excited to expand my knowledge in front-end development.",
-    imageUrl: "/nextjs.svg",
-  },
+  // {
+  //   name: "React Js - Beginner",
+  //   description:
+  //     "I am a beginner who is currently learning React.js and eager to enhance my skills in front-end development.",
+  //   imageUrl: "/react.svg",
+  // },
+  // {
+  //   name: "Next Js - Beginner",
+  //   description:
+  //     "Learning Next.js to create a portfolio website and excited to expand my knowledge in front-end development.",
+  //   imageUrl: "/nextjs.svg",
+  // },
   {
     name: "Laravel - Beginner",
     description:
